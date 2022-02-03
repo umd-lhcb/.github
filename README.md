@@ -1,2 +1,0 @@
-# umd-lhcb
-Organization README
