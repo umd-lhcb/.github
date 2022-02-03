@@ -1,6 +1,9 @@
 ## Welcome!
 
 - Feel free to open new issues in any of the project for discussions
+- In addition to the pinned projects, you might also find these projects interesting:
+    - [`TrackerOnlyEmu`](https://github.com/umd-lhcb/TrackerOnlyEmu): Emulate trigger for run 2 RDX tracker-only MC
+    - [`hammer-reweight`](https://github.com/umd-lhcb/hammer-reweight): HAMMER-based form-factor reweighting
 
 
 ### Where should my issue go?
