@@ -1,12 +1,12 @@
-## Hi there 👋
+## Welcome!
 
-<!--
+- Feel free to open new issues in any of the project for discussions
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Where should my issue go?
+
+This is mainly for group members
+
+- For ntuple generation, use [`lhcb-ntuples-gen`](https://github.com/umd-lhcb/lhcb-ntuples-gen)
+- For setting up new projects involving `nix`, or request new `nix` packages, use [`root-curated`](https://github.com/umd-lhcb/root-curated)
+- For `nix`-based user config on our server (`glacier`), use [`server-user-config`](https://github.com/umd-lhcb/server-user-config)
