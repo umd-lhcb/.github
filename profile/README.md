@@ -4,6 +4,7 @@ In addition to the pinned projects, you might also find these projects interesti
 
 - [`TrackerOnlyEmu`](https://github.com/umd-lhcb/TrackerOnlyEmu): Emulate trigger for run 2 RDX tracker-only MC
 - [`hammer-reweight`](https://github.com/umd-lhcb/hammer-reweight): HAMMER-based form-factor reweighting
+- [`misid-unfold`](https://github.com/umd-lhcb/misid-unfold): Handling misID species with unfolding method
 
 
 ### Where should my issue go?
